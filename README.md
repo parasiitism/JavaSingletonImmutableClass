@@ -1,0 +1,2 @@
+# JavaSingletonImmutableClass
+JavaSingletonImmutableClass
